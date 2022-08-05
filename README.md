@@ -39,10 +39,10 @@ The answers are not straightforward. There are a number of variables at play, wh
 
 To start this machine, please:
 
-Step 1: Navigate to the game directory in your terminal.
+Step 1: Navigate to the machine directory in your terminal.
 
-Step 2: Type "javac *.java" => this will compile the game.
+Step 2: Type "javac *.java" => this will compile the machine.
 
-Step 3: Type "java Nimsys" => this will run the game.
+Step 3: Type "java EthicalEngine" => this will run the machine.
 
 For more information and guidence abot how to control this machine, please check the instruction after starting it in 'help'.
